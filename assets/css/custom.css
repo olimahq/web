@@ -1,40 +1,41 @@
 .lobster-regular {
-    font-family: "Lobster", system-ui;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Lobster", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .title {
-    font-size: 0px;
+  font-size: 0px;
 }
 
 #oli {
-    font-size: 160px;
-    color: #999999;
+  font-size: 160px;
+  color: #999999;
 }
 
 #ma {
-    font-size: 160px;
-    color: #b7b7b7;
+  font-size: 160px;
+  color: #b7b7b7;
 }
 
 #main-content {
-    color: #999999;
-    font-size: 1.5em;
+  color: #999999;
+  font-size: 1.5em;
 }
 
 #socials {
-    color: #999999;
-    font-size: 1.5em;
-    letter-spacing: 0.2em;
+  color: #999999;
+  font-size: 1.5em;
+  letter-spacing: 0.2em;
 }
 
 body {
-    background-color: #fdf6e3;
-    width: 100%;
-    min-width: 350px;
+  background-color: #fdf6e3;
+  width: 100%;
+  min-width: 350px;
 }
 
 a {
-    color: #999999;
+  color: #999999;
+  text-decoration: none;
 }
